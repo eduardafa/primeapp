@@ -53,3 +53,4 @@ config/.env
 *.mp4
 *.png
 *.pptx
+*.out
